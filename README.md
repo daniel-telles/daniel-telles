@@ -1,9 +1,8 @@
 # Olá! Me chamo Daniel Telles 👋
 
 - 📱 Desenvolvedor Flutter Jr.
-- ⚛ Faço graduação em Física
 
-Atualmente faço estágio em Desenvolvimento Flutter na LocalLog, uma empresa de logística situada na cidade de Uberlândia, Minas Gerais.
+Atualmente estou participando do Bootcamp Santander em parceria com a dio na tilha de desenvolvimento mobile com Flutter.
 
 
 
